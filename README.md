@@ -1,5 +1,5 @@
 # Hello Guys
-Discord Bot By Python ( Invite Logger &amp; Tracker )
+*Discord Bot By Python ( Invite Logger &amp; Tracker )*
 
 > Open The File & Add Your Bot Token & Prefix
 >> Install The Python On Your System (+3)
