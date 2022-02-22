@@ -36,7 +36,7 @@ async def on_ready():
         activity = discord.Activity(type = discord.ActivityType.watching, name = name)
     )
 
-    print('\n  BOT IS ONLINE')
+    print('\n  BOT IS ONLINE', end = "!")
 
 # Check Invite Details Of Self or Specefied Member
 @client.command()
